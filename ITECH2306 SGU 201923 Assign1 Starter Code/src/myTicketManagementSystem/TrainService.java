@@ -68,7 +68,7 @@ public abstract class TrainService {
 
 	public int getZonesTravelled() {
 		double ZonesTravelled;
-		
+		ZonesTravelled = allStationNames
 		// need to look at departure station and arrival station and see how many zones are travelled
 		// then update zonesTravelled
 		// need to have a mechanism for finding or storing number of zones travelled
